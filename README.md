@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com">
-    <img src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40"/>
   </a>
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
