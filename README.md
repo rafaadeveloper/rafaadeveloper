@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Desenvolvedor **NodeJS**.
-- 💻 &nbsp; **Founder & Owner:** [Code Studio](https://onesource-page.vercel.app/) (Application Resources)
+- 💻 &nbsp; **Founder & Owner:** [Code Studio](https://discord.gg/shENr8y4) (Application Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
