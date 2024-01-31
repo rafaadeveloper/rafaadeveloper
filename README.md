@@ -1,7 +1,7 @@
  <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Desenvolvedor **NodeJS**.
+- 🎓 &nbsp; Desenvolvedor **Front-End**.
 - 💻 &nbsp; **Founder & Owner:** [Code Studio](https://discord.gg/shENr8y4) (Application Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
