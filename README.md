@@ -8,9 +8,12 @@
 <a>
   <img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/>
 </a>
-<a href="https://visualstudio.microsoft.com/pt-br/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+<a>
+  <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="40" height="40"/>
 </a>
-<a href="https://www.figma.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+<a>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/>
+</a>
+<a>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
 </a>
