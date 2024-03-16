@@ -2,7 +2,7 @@
 
 - 👋 &nbsp; Olá, me chamo **Rafael Andrade**.
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Desenvolvedor **Front-End**.
+- 🎓 &nbsp; Atualmente atuo como desenvolvedor **Front-End**.
 - 💻 &nbsp; **Founder & Owner:** [Code Studio](https://discord.gg/shENr8y4) (Application Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
