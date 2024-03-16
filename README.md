@@ -3,7 +3,6 @@
 - 👋 &nbsp; Olá, me chamo **Rafael Andrade**.
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Atualmente atuo como desenvolvedor **Front-End**.
-- 💻 &nbsp; **Founder & Owner:** [Code Studio](https://discord.gg/shENr8y4) (Application Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
