@@ -5,21 +5,27 @@
 - 🎓 &nbsp; Atualmente atuo como desenvolvedor **Front-End**.
 
 <h3> 🚀 &nbsp; Habilidades </h3>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40"/>
-  </a>
+[![](https://skillicons.dev/icons?i=js)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=ts)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=bun)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=nodejs)](https://marquezdev.com.br)
+<br>
+[![](https://skillicons.dev/icons?i=vite)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=react)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=svelte)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=vue)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=solidjs)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=next)](https://marquezdev.com.br)
+<br>
+[![](https://skillicons.dev/icons?i=css)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=tailwind)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=styledcomponents)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=sass)](https://marquezdev.com.br)
+<br>
+[![](https://skillicons.dev/icons?i=mongodb)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=mysql)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=postgresql)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=prisma)](https://marquezdev.com.br)
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
 
