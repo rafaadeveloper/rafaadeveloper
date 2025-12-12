@@ -1,22 +1,31 @@
-# 👋 Olá, eu sou Rafael Andrade
+# Hi 👋
 
-## 💼 Perfil Profissional
+**Hello my name is Rafael Andrade, Brazil** <br/>
+I have always been passionate about technology. I started programming when I was only 9 years old developing simple and practical things, since then I don't miss opportunities to know more and delve into each thing I discover and get interested in.
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
+## Stacks:
 
-## 🚀 Habilidades
+<div>
+  <h4>Programming Languages</h4>
+  <div>
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/javascript.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/typescript-icon.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/lua.svg" width="40" height="40" />
+  </div>
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
-
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=css,docker,html,js,prisma,react,vite,ts)](https://skillicons.dev)
-
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma)](https://skillicons.dev)<br><br>
-
-## 📫 Contato
-
-![Gmail Badge](https://img.shields.io/badge/-rafaelandradee224@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelandradee224@gmail.com)
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+  <h4>Frameworks & Lib's</h4>
+  <div>
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/react.svg" width="40" height="40" /> &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/gabrielxisto/stack-icons/refs/heads/patch-2/logos/nextjs.svg" width="40" height="40" /> &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/gabrielxisto/stack-icons/refs/heads/patch-3/logos/prisma.svg" width="40" height="40" /> &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" width="40" height="40" /> &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/gabrielxisto/stack-icons/refs/heads/patch-3/logos/express.svg" width="40" height="40" /> &nbsp &nbsp
+  </div>
+  
+  <h4>Database SQL/NoSQL</h4>
+  <div>
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/postgresql.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mongodb-icon.svg" width="40" height="40" />
+  </div>
+</div>
